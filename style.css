@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    height: 735px;
+    top: 75px;
+    background-color: #F1E4E6;
+}
+.header{
+    height: 75px;
+    background-color: #222222;
+    display: flex;
+    list-style-type: none;
+    padding-top: 42px;
+}
+.header-circle{
+    padding-left: 231px;
+    padding-right: 41px;
+    position: relative;
+    
+
+}
+.header_Forma1{
+    padding-right: 1500px;
+    padding-top: 5px;
+  
+}
+.header-line{
+    padding-right: 33px;
+}
+.header-men{
+    padding-right: 33px;
+}
+
+.top__info{
+    
+    display: flex;
+    justify-content: flex-start;
+    
+   
+}
+.top__info2{
+ position: relative;   
+width: 800.58px;
+height: 764px;
+left: 500px;
+}
+.brand1__img{
+    display: flex;
+    padding-left: 450px;
+    padding-right: 64px;
+}
+.brand2__img{
+    display: flex;
+    padding-right: 16px;
+}
+.brand__img{
+    display: flex;
+    
+}
+.middle-container{
+    height: 2196px;
+    top: 75px;
+}
+.card-box{
+    display: flex;
+    justify-content: center;
+    padding-top: 64px;
+    }
+.card{
+    margin-right: 30px;
+    position: relative;}
+
+   .card-long{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-right: 32px;
+    padding-top: 32px;
+    }
+
+.card1__img{
+    position: absolute;
+    left: 125px;
+    right: 125px;
+    top: 125px;
+}
+.card2__img{
+    position: absolute;
+    left: 125px;
+    right: 125px;
+    top: 125px;}
+
+.card3__img{
+    position: absolute;
+    left: 125px;
+    right: 125px;
+    top: 125px;}
+    
+    .card-long__img{
+        position: absolute;
+    left: 1150px;
+    right: 103px;
+    top: 125px;
+    }
+    .featerd{
+        display: flex;
+        justify-content: center;
+        padding-top: 64px;
+}
